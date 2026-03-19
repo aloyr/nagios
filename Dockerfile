@@ -64,6 +64,8 @@ RUN dnf -y --enablerepo devel \
         python3-pip \
         perl \
         perl-devel \
+        perl-LWP-Protocol-https \
+        perl-libwww-perl \
         perl-Text-Glob \
         perl-Time-ParseDate \
         postfix \
