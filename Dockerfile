@@ -24,6 +24,7 @@ RUN dnf -y --enablerepo devel \
         gnutls-devel \
         httpd \
         httpd-devel \
+        iputils \
         kernel-headers \
         krb5-devel \
         libdb-devel \
